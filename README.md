@@ -7,6 +7,7 @@ Cílem projektu je navrhnout a následně vyrobit stanici složenou z LED disple
 Jiří Švihla
 
 ## Harmonogram práce
+- [ ]   Zhotovení zadání MP (23. 9.)
 - [ ]   Výběr potřebných komponentů, seznámení se s problematikou a možnostmi programování LED
 displeje (31. 10.)
 - [ ]   Návrh a realizace estetického a funkčního designu zařízení (28. 11.)
