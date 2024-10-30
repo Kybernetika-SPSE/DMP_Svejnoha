@@ -8,6 +8,7 @@ Jiří Švihla
 
 ## Harmonogram práce
 - [x]   Zhotovení zadání MP (23. 9.)
+[zadani/DMP_zadani_SVEJNOHA.pdf](////zadání maturitní práce////)
 - [x]   Výběr potřebných komponentů, seznámení se s problematikou a možnostmi programování LED
 displeje (31. 10.)
 - [ ]   Návrh a realizace estetického a funkčního designu zařízení (28. 11.)
