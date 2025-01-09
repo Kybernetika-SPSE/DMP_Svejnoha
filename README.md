@@ -12,8 +12,8 @@ Jiří Švihla
 - [x]   Výběr potřebných komponentů, seznámení se s problematikou a možnostmi programování LED
 displeje (31. 10.)
 - [/dílčí vypracování říjen/](dilci_vypracovani/SVEJNOHA_RIJEN.pdf)
-- [ ]   Návrh a realizace estetického a funkčního designu zařízení (28. 11.)
-- [ ]   Hardwarového zapojení senzorů a napájení (19. 12.)
+- [x]   Návrh a realizace estetického a funkčního designu zařízení (28. 11.)
+- [x]   Hardwarového zapojení senzorů a napájení (19. 12.)
 - [/dílčí vypracování prosinec+listopad/](dilci_vypracovani/SVEJNOHA_PROSINEC.pdf)
 - [ ]   Programování displeje, zajištění možností využití zobrazení dat a ornamentů na displeji (30. 1.)
 - [ ]   Kompletace zařízení a testování (27. 2.)
